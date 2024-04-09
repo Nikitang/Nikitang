@@ -9,7 +9,7 @@ I've been learning to program for a little less than a year, I started with regu
 *   🌍  I'm based in Saint-Petersburg
 *   🖥️  See my portfolio at [GitHub](http://github.com/Nikitang)
 *   ✉️  You can contact me at [gerasimenya.05@mail.ru](mailto:gerasimenya.05@mail.ru)
-*   🧠  I'm learning Currently, I'm studying front-end architecture and DOM API, and soon I plan to start learning React, React Toolkit
+*   🧠  I'm learning Currently, I'm studying front-end architecture and DOM API, and soon I plan to start learning React
 *   🤝  I'm open to collaborating on with any companies
 *   ⚡  I also know the basics of Python, I worked a little with the python-telegram-bot and csv libraries.
 
