@@ -9,7 +9,7 @@ I've been learning to program for more than a year, I started with regular layou
 *   🌍  I'm based in Saint-Petersburg
 *   🖥️  See my portfolio at [GitHub](http://github.com/Nikitang)
 *   ✉️  You can contact me at [gerasimenya.05@mail.ru](mailto:gerasimenya.05@mail.ru)
-*   🧠  I'm learning Currently, I'm studying React: Redux Toolkit and TypeScript.
+*   🧠  I'm learning Currently, I'm studying TypeScript.
 *   🤝  I'm open to collaborating on with any companies
 *   ⚡  I also know the basics of Python, I worked a little with the python-telegram-bot, NumPy and csv libraries.
 
