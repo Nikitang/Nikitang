@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning to program for more than a year, I started with regular layout, after which I started learning JavaScript. I really like front-end development, because in addition to the main code, you can work with the design of websites and applications.
+I've been programming for 1.5 years, I started with regular layout, after which I started learning JavaScript. I really like front-end development, because in addition to the main code, you can work with the design of websites and applications.
 
 *   🌍  I'm based in Saint-Petersburg
 *   🖥️  See my portfolio at [GitHub](http://github.com/Nikitang)
